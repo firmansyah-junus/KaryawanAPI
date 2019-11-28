@@ -26,6 +26,8 @@ namespace KaryawanApi
 
             services.AddControllers();
 
+            //"teset";
+
            
         }
 
